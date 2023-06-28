@@ -10,5 +10,6 @@ class Ex11_15 {
 
 		System.out.println("50보다 작은 값 :" + set.headSet(new Integer(50)));
 		System.out.println("50보다 큰 값 :"  + set.tailSet(new Integer(50)));
+		System.out.println("깃 연습 수정 하기");
 	}
 }
